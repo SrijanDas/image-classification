@@ -1,3 +1,3 @@
 # image-classification
 
-used dataseet : keras.datasets.fashion_mnist
+used dataset : keras.datasets.fashion_mnist
